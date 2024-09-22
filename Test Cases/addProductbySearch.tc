@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>addProductbySearch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c08e0ee0-16f0-4786-b88c-45b6ffa39ba3</testCaseGuid>
+</TestCaseEntity>
